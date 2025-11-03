@@ -63,7 +63,12 @@ This technique can be used for:
 
 ---
 
+## Demo Video
+* [YouTube](https://youtu.be/0tb8nrONalw)
+
 ## 🖼️ Sample Output
+
+---
 
 * Green contours: Detected motion regions
 * Red boxes: Tracked moving objects
