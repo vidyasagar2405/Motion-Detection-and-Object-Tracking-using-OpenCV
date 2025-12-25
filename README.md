@@ -41,8 +41,8 @@ This technique can be used for:
 1. Clone this repository:
 
    ```bash
-   git clone https://github.com/vidyasagar2405/Motion-Detection-and-Object-Tracking-using-OpenCV.git
-   cd Motion-Detection-and-Object-Tracking-using-OpenCV
+   git clone https://github.com/vidyasagar2405/motion-detection-and-object-tracking.git
+   cd motion-detection-and-object-tracking
    ```
 
 2. Install dependencies:
@@ -64,7 +64,7 @@ This technique can be used for:
 ---
 
 ## Demo Video
-* [YouTube](https://youtu.be/0tb8nrONalw)
+## [Video](https://youtu.be/0tb8nrONalw)
 
 ## 🖼️ Sample Output
 
@@ -81,11 +81,3 @@ This technique can be used for:
 * Add motion tracking across multiple frames
 * Integrate object classification (e.g., human vs vehicle)
 * Display real-time motion area percentage
-
----
-
-## 👨‍💻 Author
-
-**Vidyasagar Empelly**
-🔗 [LinkedIn](https://www.linkedin.com/in/vidya-sagar-a977672ab/)
-🚀 Passionate about Computer Vision and Data Science
